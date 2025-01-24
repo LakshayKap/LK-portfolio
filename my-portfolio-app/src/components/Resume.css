@@ -1,0 +1,9 @@
+#resume {
+  padding: 2rem;
+  background-color: #f4f4f4;
+}
+
+.education, .experience {
+  margin-bottom: 1rem;
+}
+
